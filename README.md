@@ -30,7 +30,7 @@ Hello! I'm **Cameron Yang**, currently a junior pursuing a major in **Computer S
 ## Where's Schuller?
 
 
-{% include_relative folder/barmap_visualization.html %}
+{% include_relative barmap_visualization.html %}
 
 
 
