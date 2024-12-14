@@ -26,7 +26,7 @@ Hello! I'm **Cameron Yang**, currently a junior pursuing a major in **Computer S
 2. **Find different factors that contribute to Stock changes**: Can help predict what stocks to buy and when to sell.(https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks & various news sources)**
 3. **Find trends in Popularity of Video Games over Time**: Find what video games consumers typically like and what type of game might be popular next. (https://www.kaggle.com/datasets/faisaljanjua0555/top-1000-video-games)**
 4. **Analyze the job market**: Use the data set to see what is the most and least saturated to possibly influence students' major choice. (https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)**
-5. 
+5. **Analyze global population and Migration**: We can use the data set to determine the fastest growing countries and compare it to years past to predict population of countries in the future. https://www.kaggle.com/datasets/hashimkhanwazir/global-population-and-migration-dataset
 
 ## Where's Schuller?
 
