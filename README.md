@@ -36,5 +36,5 @@ Hello! I'm **Cameron Yang**, currently a junior pursuing a major in **Computer S
 
 
 ## Thanks for Visiting!
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/yangc2whitman/yangc2whitman.github.io/blob/main/200w.gif))
+![](https://github.com/yangc2whitman/yangc2whitman.github.io/blob/main/200w.gif)
 
