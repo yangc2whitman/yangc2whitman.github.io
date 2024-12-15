@@ -1,4 +1,2 @@
-url: 'https://yangc2whitman.github.io/' # your main domain
-baseurl: 'PythonFunctionLibrary/'
+
 theme: jekyll-theme-hacker
-<img src="{{ "movies/zigzag.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
